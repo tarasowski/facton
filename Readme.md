@@ -1,6 +1,4 @@
-# Anleitung
-
-Bitte folgende Codesnippets auf der Website entfernen 👇
+# Folgende Codesnippets auf der Website entfernen 👇
 
 ## Snippet 1 bitte entfernen👇
 ```
@@ -131,7 +129,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager (noscript) -->
 ```
 
-# Folgende Script bitte auf der Seite einfügen
+# Folgende Codesnippets auf der Website einfügen 👇
 
 ## Snippet 1 bitte einfügen 👇
 **Füge bitte diesen Code so hoch in der `<head>`-Seite wie möglich ein.**
