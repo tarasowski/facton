@@ -2,6 +2,7 @@
 
 Bitte folgende Codesnippets auf der Website entfernen 👇
 
+## Snippet 1 bitte entfernen
 ```
 <!--  Added by GoogleAnalytics4 integration -->
 <script>
@@ -100,6 +101,7 @@ _hsp.push(['addPrivacyConsentListener', function(consent){
 <!-- /Added by GoogleTagManager integration -->
 ```
 
+## Snippet 2 bitte entfernen
 ```
 <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="fdfdd255-37cc-4b56-a895-a13a86eb1279" data-blockingmode="auto" type="text/javascript"></script>
 <!-- Google Tag Manager -->
