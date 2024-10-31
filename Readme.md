@@ -131,7 +131,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager (noscript) -->
 ```
 
-# Nachfolgende Script bitte auf der seine einfügen
+# Folgende Script bitte auf der Seite einfügen
 
 ## Snippet 1 bitte einfügen 👇
 **Füge bitte diesen Code so hoch in der `<head>`-Seite wie möglich ein.**
