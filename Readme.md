@@ -158,7 +158,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 ```
 
 ## Snippet 2 bitte einfügen 👇
-**Füge diesen Code sofort nach dem offenen <body>-Tag ein:**
+**Füge diesen Code sofort nach dem offenen `<body>`-Tag ein:**
 ```
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NWGRFW"
